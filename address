@@ -1,4 +1,5 @@
 Noclip ( addr copy from megahack v5 )
 - addr(hex) : 0x20A23C
-- on : E9 79 06 00 00
-- off : 6A 14 8B CB FF
+- on : E9 79 06 00 00 (424425)
+- off : 6A 14 8B CB FF (3414889578)
+( you can convert it to UINT32 - little endian (dcba) )
